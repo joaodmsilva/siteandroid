@@ -98,14 +98,17 @@ header{
 header>h1{
     font-family: var(--fonte1);
     font-size: 3em;
-    font-weight: bold;
+    font-weight: normal;
     margin-bottom: 20px;
 
 }
 
 header>p{
-    max-width: 500px;
+    max-width: 600px;
     font-size: 1.2em;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 30px;
     font-family: var(--fonte0);
     margin: auto;
 }
@@ -114,7 +117,7 @@ nav{
     font-family: var(--fonte0);
     background-color: #063d1e;
     box-shadow:  0px 4px 5px rgba(0, 0, 0, 0.466);
-    padding: 30px 10px 20px 10px;
+    padding: 10px;
 }
 
 nav>a{
