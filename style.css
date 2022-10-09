@@ -61,7 +61,7 @@ main img.pequena{
     margin: auto;
 }
 
- div.video{
+div.video{
     background-color: var(--cor4);
     margin: 0px -20px 30px -20px;
     padding: 20px;
@@ -93,7 +93,7 @@ header{
     text-align: center;
     background-image: linear-gradient(to bottom, var(--cor1), var(--cor2), var(--cor3), var(--cor4), var(--cor5));
     text-shadow: 2px 2px 0px rgba(0,0,0,0.466);
-    margin-right: auto;
+    min-width: 400px;
 }
 
 header>h1{
