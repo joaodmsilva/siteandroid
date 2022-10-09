@@ -89,11 +89,11 @@ main a:hover{
 
 header{
     padding-top: 20px;
-    padding-bottom: 20px;
     color: rgb(252, 252, 252);
     text-align: center;
     background-image: linear-gradient(to bottom, var(--cor1), var(--cor2), var(--cor3), var(--cor4), var(--cor5));
     text-shadow: 2px 2px 0px rgba(0,0,0,0.466);
+    margin-right: auto;
 }
 
 header>h1{
@@ -177,5 +177,6 @@ footer{
     background-color: #063d1e;
     font-size: 0.8em;
     padding: 5px;
+    margin-right: auto;
 }
 
