@@ -89,6 +89,7 @@ main a:hover{
 
 header{
     padding-top: 20px;
+    padding-bottom: 20px;
     color: rgb(252, 252, 252);
     text-align: center;
     background-image: linear-gradient(to bottom, var(--cor1), var(--cor2), var(--cor3), var(--cor4), var(--cor5));
